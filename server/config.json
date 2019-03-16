@@ -1,10 +1,8 @@
 {
-    "socket":{
-      "host": "192.168.50.52",
-      "port": 65430,
-      "buffer": 4096
-    },
-    "neopixels":{
-      "pixels": 30
-    }
-  }
+  "socket": {
+    "host": "192.168.50.52",
+    "port": 65430,
+    "buffer": 4096
+  },
+  "pixels": 30
+}
